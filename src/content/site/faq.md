@@ -45,3 +45,7 @@ If you get annoyed that you don't have your name and make a big deal out of it, 
 ## How do I join The Programmer's Hangout GitHub organisation?
 
 The Programmer's Hangout has an [organisation on GitHub](https://github.com/the-programmers-hangout) and the best part is that you can join it too! To get yourself added to the organisation, send your GitHub username to the moderators via @ModMail#8255 and you'll be invited to the organisation. You even get a cool little badge on your GitHub profile!
+
+## I have been banned from the server. How can I appeal for an unban?
+
+The Programmer's Hangout has an [appeals page](/appeals). Connect your discord account which has been banned and start an appeal.
